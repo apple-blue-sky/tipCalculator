@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 * [ V ] UI animations
 * [ V ] Remembering the bill amount across app restarts (if <10mins)
 * [ V ] Using locale-specific currency and currency thousands separators.
-* [ V] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ V ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -30,10 +30,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 file:///Users/joywang/Desktop/tipCalculator.gif
-<img src='file:///Users/joywang/Desktop/tipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-<img src='file:///Users/joywang/Desktop/tipCalculator.gif' title='tipCalculator' width='' alt='Video Walkthrough' />
 
 ## Notes
 
