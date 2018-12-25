@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		386FB55721CDB4D300203171 /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386FB55621CDB4D300203171 /* firstViewController.swift */; };
+		386FB55921CDC3B900203171 /* slipTipViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386FB55821CDC3B900203171 /* slipTipViewController.swift */; };
 		38C4F48121CC819000D76834 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C4F48021CC819000D76834 /* AppDelegate.swift */; };
 		38C4F48321CC819000D76834 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C4F48221CC819000D76834 /* ViewController.swift */; };
 		38C4F48621CC819000D76834 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38C4F48421CC819000D76834 /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		386FB55621CDB4D300203171 /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
+		386FB55821CDC3B900203171 /* slipTipViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slipTipViewController.swift; sourceTree = "<group>"; };
 		38C4F47D21CC819000D76834 /* tipCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tipCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38C4F48021CC819000D76834 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		38C4F48221CC819000D76834 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 				38C4F48721CC819200D76834 /* Assets.xcassets */,
 				38C4F48921CC819200D76834 /* LaunchScreen.storyboard */,
 				38C4F48C21CC819200D76834 /* Info.plist */,
+				386FB55621CDB4D300203171 /* firstViewController.swift */,
+				386FB55821CDC3B900203171 /* slipTipViewController.swift */,
 			);
 			path = tipCalculator;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				38C4F48321CC819000D76834 /* ViewController.swift in Sources */,
 				38C4F48121CC819000D76834 /* AppDelegate.swift in Sources */,
+				386FB55921CDC3B900203171 /* slipTipViewController.swift in Sources */,
+				386FB55721CDB4D300203171 /* firstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
