@@ -26,9 +26,8 @@ The following **additional** features are implemented:
 * [ V ] Created buttom to navigate to next view controller.
 
 ## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
 ![](tipCalculator.gif)
+Here's a walkthrough of implemented user stories:
 
 ## Notes
 
