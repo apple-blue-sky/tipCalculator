@@ -28,10 +28,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-file:///Users/joywang/Desktop/tipCalculator.gif
 ![](tipCalculator.gif)
-
 
 ## Notes
 
